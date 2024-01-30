@@ -36,7 +36,8 @@ TECHNOLOGY AND INFORMATION SYSTEM (TIS) ASSIGNMENTS:-
 * INDUSTRY TALK https://drive.google.com/file/d/1iqjSzW-q8jedGMrWkwXFFmGu5O5Y75I5/view
 * INDUSTRY TALK 2 https://drive.google.com/file/d/1BPG_SIO5OsKg2D9B1l2Hy1v2F2rEQxS1/view
 * INDUSTRY VISIT https://drive.google.com/file/d/1GAiTVNX7ule02u_iC3g1rpiq06ftZive/view
-* DESIGN THINKING ASSIGNMENT 
+* DESIGN THINKING ASSIGNMENT
+* PC ASSEMBLY https://docs.google.com/document/d/1RTfLnnN7WVz7ITH0_66PxQyMkM7Smoj1/edit?usp=drive_web&ouid=116097769235594336017&rtpof=true
   
 
 

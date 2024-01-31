@@ -1,3 +1,5 @@
+-SUMMARY-
+
 - 👋 Hi, I’m Haziq
 - 👀 I’m interested in doing coding (and also playing games)
 - 🌱 I’m currently studying bachelor of software engineering in UTMKL

@@ -46,7 +46,7 @@ TECHNOLOGY AND INFORMATION SYSTEM (TIS) ASSIGNMENTS:-
 -
 -
 -
-REFLECTION [PDF](https://drive.google.com/file/d/1syVyBp_vYamZmZ2oAV57rP8QZdEU2Uan/view?usp=sharing)
+REFLECTION FOR EACH ASSIGNMENTS [PDF](https://drive.google.com/file/d/1syVyBp_vYamZmZ2oAV57rP8QZdEU2Uan/view?usp=sharing)
 
 
 

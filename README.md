@@ -46,15 +46,10 @@ TECHNOLOGY AND INFORMATION SYSTEM (TIS) ASSIGNMENTS:-
 -
 -
 -
-REFLECTION 
+REFLECTION [PDF](https://drive.google.com/file/d/1syVyBp_vYamZmZ2oAV57rP8QZdEU2Uan/view?usp=sharing)
 
-INDUSTRY TALK
 
-- Gained Knowledge: The industrial talk provided valuable insights into current industry trends, challenges, and emerging technologies. I learned about real-world applications of theoretical concepts discussed in the classroom, making the subject matter more tangible.
-- Skills Acquired: Listening to industry professionals enhanced my communication skills, as I had to absorb and comprehend complex information. It also broadened my understanding of the practical aspects of the field, aiding in connecting theory with practice.
 
--
--
 
 <!---
 Akicwan/Akicwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

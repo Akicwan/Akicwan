@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Haziq</h1>
 
-
+<h3 align="center">Summary</h3>
+I am from Kuala Lumpur and currently studying in Bachelor of Computer Science (software Engineering), I love drawing and currently aiming to produce my own manga(comics), have editing experiencs  but not alot >-<
 
 <h3 align="center">A passionate Software Engineering student from Malaysia</h3>
 
@@ -35,14 +36,14 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
 
 
 
 
-TECHNOLOGY AND INFORMATION SYSTEM (TIS) ASSIGNMENTS:-
+<h3 align="center">TECHNOLOGY AND INFORMATION SYSTEM (TIS) ASSIGNMENTS:-</h3>
 
 
 

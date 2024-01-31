@@ -10,7 +10,9 @@ I am from Kuala Lumpur and currently studying in Bachelor of Computer Science (s
 
   
 -  *Bachelor of Computer Science(current)**
+  
 -  *Sekolah Menengah Islam al-Hikamah Shah Alam**
+  
 -  *Sri Ayesha Islamic School**
   
 

@@ -6,6 +6,7 @@
 
 
 <h1 align="center">🌱 Education:-
+  
 -  **Bachelor of Computer Science(current)**
 -  **Sekolah Menengah Islam al-Hikamah Shah Alam**
 -  **Sri Ayesha Islamic School**

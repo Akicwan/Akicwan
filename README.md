@@ -33,16 +33,28 @@ EDUCATION:-
 
 TECHNOLOGY AND INFORMATION SYSTEM (TIS) ASSIGNMENTS:-
 
-* INDUSTRY TALK https://drive.google.com/file/d/1iqjSzW-q8jedGMrWkwXFFmGu5O5Y75I5/view
-* INDUSTRY TALK 2 https://drive.google.com/file/d/1BPG_SIO5OsKg2D9B1l2Hy1v2F2rEQxS1/view
-* INDUSTRY VISIT https://drive.google.com/file/d/1GAiTVNX7ule02u_iC3g1rpiq06ftZive/view
-* DESIGN THINKING ASSIGNMENT https://onedrive.live.com/edit?id=F3FF3D403E943FD1!2247&resid=F3FF3D403E943FD1!2247&ithint=file%2cdocx&authkey=!AAJkOzleq1mvRlo&wdo=2&cid=f3ff3d403e943fd1
-* PC ASSEMBLY https://docs.google.com/document/d/1RTfLnnN7WVz7ITH0_66PxQyMkM7Smoj1/edit?usp=drive_web&ouid=116097769235594336017&rtpof=true
+* INDUSTRIAL TALK [Assignment 1 (Poster)](https://drive.google.com/file/d/1iqjSzW-q8jedGMrWkwXFFmGu5O5Y75I5/view?usp=sharing)
+* VIRTUAL TALK [Assignment 2 (vide0)](https://drive.google.com/file/d/1BPG_SIO5OsKg2D9B1l2Hy1v2F2rEQxS1/view)
+* INDUSTRIAL TALK 2 [Assignment 3 (Report)](https://drive.google.com/file/d/1GAiTVNX7ule02u_iC3g1rpiq06ftZive/view)
+* INDUSTRIAL VISIT [Assignment 4 (newsletter)](https://drive.google.com/file/d/1GAiTVNX7ule02u_iC3g1rpiq06ftZive/view)
+* DESIGN THINKING [report](https://drive.google.com/file/d/1JGf0-5uXvDVFuoiU4y0PtukMPA0G6GHV/view)[video](https://drive.google.com/file/d/1LTcT1JoFKyQowITZMSiFRrtG32prM2I2/view)
   
 
 
 
+-
+-
+-
+-
+REFLECTION 
 
+INDUSTRY TALK
+
+- Gained Knowledge: The industrial talk provided valuable insights into current industry trends, challenges, and emerging technologies. I learned about real-world applications of theoretical concepts discussed in the classroom, making the subject matter more tangible.
+- Skills Acquired: Listening to industry professionals enhanced my communication skills, as I had to absorb and comprehend complex information. It also broadened my understanding of the practical aspects of the field, aiding in connecting theory with practice.
+
+-
+-
 
 <!---
 Akicwan/Akicwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

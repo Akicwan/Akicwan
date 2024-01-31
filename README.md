@@ -23,9 +23,13 @@ I am from Kuala Lumpur and currently studying in Bachelor of Computer Science (s
 - *Vice Treasurer of Software Engineering Association (SOF-EA)**
 
 
-- 📫 How to reach me **haziqrashid20@gmail.com**
+  <h3 align="center">📫 How to reach me </h3>
+  
+-  **haziqrashid20@gmail.com**
 
-- ⚡ Fun fact **I love to play games >_<**
+  <h3 align="center">⚡ Fun fact </h3>
+    
+-  **I love to play games >_<**
 
 
 

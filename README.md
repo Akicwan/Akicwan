@@ -6,7 +6,8 @@
 
 
 <h1 align="center">🌱 Education:-
-  
+
+<p align="left">  
 -  **Bachelor of Computer Science(current)**
 -  **Sekolah Menengah Islam al-Hikamah Shah Alam**
 -  **Sri Ayesha Islamic School**
@@ -14,6 +15,8 @@
 
 
 <h1 align="center">💬 Position:-
+
+<p align="left">
 - **Vice Treasurer of Software Engineering Association (SOF-EA)**
 
 

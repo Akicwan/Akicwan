@@ -5,14 +5,15 @@
 <h3 align="center">A passionate Software Engineering student from Malaysia</h3>
 
 
-- 🌱 Education:-
+<h1 align="center">🌱 Education:-
 -  **Bachelor of Computer Science(current)**
 -  **Sekolah Menengah Islam al-Hikamah Shah Alam**
 -  **Sri Ayesha Islamic School**
   
 
 
-- 💬 Position:- **Vice Treasurer of Software Engineering Association (SOF-EA)**
+<h1 align="center">💬 Position:-
+- **Vice Treasurer of Software Engineering Association (SOF-EA)**
 
 
 - 📫 How to reach me **haziqrashid20@gmail.com**

@@ -5,7 +5,7 @@
 <h3 align="center">A passionate Software Engineering student from Malaysia</h3>
 
 
-<h3 align="center">🌱 Education:-
+<h3 align="center">🌱 Education:-</h3>
 
   
 -  *Bachelor of Computer Science(current)**
@@ -14,7 +14,7 @@
   
 
 
-<h3 align="center">💬 Position:-
+<h3 align="center">💬 Position:-</h3>
 
 
 - *Vice Treasurer of Software Engineering Association (SOF-EA)**

@@ -64,7 +64,9 @@ I am from Kuala Lumpur and currently studying in Bachelor of Computer Science (s
 REFLECTION FOR EACH ASSIGNMENTS [PDF](https://drive.google.com/file/d/1syVyBp_vYamZmZ2oAV57rP8QZdEU2Uan/view?usp=sharing)
 
 
+<h3 align="center">HUMAN COMPUTER INTERACTION ASSINGMENTS:-</h3>
 
+* PROJECT PROPOSAL 
 
 <!---
 Akicwan/Akicwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -66,7 +66,7 @@ REFLECTION FOR EACH ASSIGNMENTS [PDF](https://drive.google.com/file/d/1syVyBp_vY
 
 <h3 align="center">HUMAN COMPUTER INTERACTION ASSINGMENTS:-</h3>
 
-* PROJECT PROPOSAL 
+* PROJECT PROPOSAL [PROPOSAL PDF](https://drive.google.com/file/d/1lFQfAHuDLkKERunfBHzTBOou1pJVc8PI/view?usp=sharing)
 
 <!---
 Akicwan/Akicwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

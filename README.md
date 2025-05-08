@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Haziq</h1>
 
 <h3 align="center">Summary</h3>
-I am from Kuala Lumpur and currently studying in Bachelor of Computer Science (software Engineering), I love drawing and currently aiming to produce my own manga(comics), have editing experiencs  but not alot >-<
+I am from Kuala Lumpur and currently studying in Bachelor of Computer Science (software Engineering), I love drawing and currently aiming to produce my own manga(comics), have editing experiences  but not alot >-<
 
 <h3 align="center">A passionate Software Engineering student from Malaysia</h3>
 

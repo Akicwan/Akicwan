@@ -32,7 +32,6 @@ I have worked on projects involving:
 - Analytics dashboards
 - AI and workflow automation
 - REST API development
-- Game development
 
 ## Connect
 

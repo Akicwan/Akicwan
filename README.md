@@ -7,7 +7,6 @@ I'm a Software Engineering student at Universiti Teknologi Malaysia (UTM), inter
 - Bachelor of Computer Science (Software Engineering) at UTM
 - Interested in Full-Stack Web Development and Software Engineering
 - Exploring AI, automation, and API integrations
-- Enjoy building real-world projects and learning through development
 
 ## Tech Stack
 
